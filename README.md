@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zahlatoshi
-- 💞️ I’m contribute to @zahl-live
+- 💞️ I’m the founder of @zahl-live
 - 👀 I’m interested in blockchain
 - 🌱 I’m currently learning DeFi
 - 📫 You can reach me on Keybase:
